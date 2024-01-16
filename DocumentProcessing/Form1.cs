@@ -1,11 +1,6 @@
-﻿using System;
+﻿using ExamProject;
+using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace DocumentProcessing
@@ -17,5 +12,17 @@ namespace DocumentProcessing
             InitializeComponent();
         }
 
+        private void btnProcess_Click(object sender, EventArgs e)
+        {
+            var helper = new DocumentHelper("шаблон.docx");
+            var items = new Dictionary<string, string>
+            {
+                {"<Число>", textBox1.Text},
+                {"<Месяц и год>", textBox2.Text},
+                {"<Номер отчёта>", textBox3.Text},
+                {"<Наименование>", textBox4.Text}
+            };
+            helper.Process(items);
+        }
     }
 }

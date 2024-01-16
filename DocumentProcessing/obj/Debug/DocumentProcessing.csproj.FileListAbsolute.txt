@@ -9,3 +9,4 @@ E:\DocumentProcessing\obj\Debug\DocumentProcessing.csproj.GenerateResource.cache
 E:\DocumentProcessing\obj\Debug\DocumentProcessing.csproj.CoreCompileInputs.cache
 E:\DocumentProcessing\obj\Debug\DocumentProcessing.exe
 E:\DocumentProcessing\obj\Debug\DocumentProcessing.pdb
+E:\DocumentProcessing\bin\Debug\шаблон.docx

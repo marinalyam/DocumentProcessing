@@ -123,6 +123,7 @@ namespace DocumentProcessing
             this.btnProcess.TabIndex = 1;
             this.btnProcess.Text = "Обработать";
             this.btnProcess.UseVisualStyleBackColor = true;
+            this.btnProcess.Click += new System.EventHandler(this.btnProcess_Click);
             // 
             // textBox1
             // 
@@ -131,6 +132,7 @@ namespace DocumentProcessing
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(387, 22);
             this.textBox1.TabIndex = 2;
+            this.textBox1.Text = "16";
             // 
             // textBox2
             // 
@@ -139,6 +141,7 @@ namespace DocumentProcessing
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(387, 22);
             this.textBox2.TabIndex = 3;
+            this.textBox2.Text = "января 2024";
             // 
             // textBox3
             // 
@@ -147,6 +150,7 @@ namespace DocumentProcessing
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(387, 22);
             this.textBox3.TabIndex = 4;
+            this.textBox3.Text = "13";
             // 
             // textBox4
             // 
@@ -155,6 +159,7 @@ namespace DocumentProcessing
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(387, 22);
             this.textBox4.TabIndex = 5;
+            this.textBox4.Text = "Лямина Марина Алексеевна";
             // 
             // Form1
             // 
