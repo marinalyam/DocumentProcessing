@@ -1,0 +1,11 @@
+E:\DocumentProcessing\bin\Debug\DocumentProcessing.exe.config
+E:\DocumentProcessing\bin\Debug\DocumentProcessing.exe
+E:\DocumentProcessing\bin\Debug\DocumentProcessing.pdb
+E:\DocumentProcessing\obj\Debug\DocumentProcessing.csproj.AssemblyReference.cache
+E:\DocumentProcessing\obj\Debug\DocumentProcessing.csproj.ResolveComReference.cache
+E:\DocumentProcessing\obj\Debug\DocumentProcessing.Form1.resources
+E:\DocumentProcessing\obj\Debug\DocumentProcessing.Properties.Resources.resources
+E:\DocumentProcessing\obj\Debug\DocumentProcessing.csproj.GenerateResource.cache
+E:\DocumentProcessing\obj\Debug\DocumentProcessing.csproj.CoreCompileInputs.cache
+E:\DocumentProcessing\obj\Debug\DocumentProcessing.exe
+E:\DocumentProcessing\obj\Debug\DocumentProcessing.pdb
